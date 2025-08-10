@@ -260,15 +260,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Inspiration**: Text classification and NLP research community
 - **Tools**: Jupyter Notebook, Google Colab
 
-## 📞 Contact
-
-For questions, suggestions, or collaboration:
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourname)
-
----
-
-⭐ **Star this repository if you found it helpful!** ⭐
-
-*Built with ❤️ for the machine learning and NLP community*
