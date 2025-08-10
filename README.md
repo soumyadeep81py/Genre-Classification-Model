@@ -28,7 +28,7 @@ This project implements a text classification system that automatically predicts
 ## 📊 Dataset
 
 The project uses movie data with the following structure:
-- **https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb**; `Dataset link`
+- **https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb**;
 - **Training Data**: `train_data.txt`
 - **Test Data**: `test_data.txt`
 - **Solution Data**: `test_data_solution.txt`
